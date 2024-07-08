@@ -50,7 +50,7 @@ Menus:
 
 params:
   title: "armando.ooo"
-  description: Text about my cool site
+  description: My personal website and portfolio
   # staticPath: ""  # The path to serve the static files from
   favicon: "/moon_transparent.png"
 
@@ -114,7 +114,7 @@ params:
       disableEducation: false
       disableProjects: false
       disableAchievements: false
-      disableContact: false
+      disableContact: true
 
   # Hero
   hero:
@@ -123,9 +123,9 @@ params:
     title: "Armando."
     subtitle: "I build all types of things"
     content: "."
-    image: /
-    bottomImage:
-      enable: true
+    #image: /
+    #bottomImage:
+      #enable: false
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
@@ -145,9 +145,9 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    #image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a student researcher at California, State University, Fullerton, as part of the project RAISE program. 
+      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a student researcher at California State University, Fullerton, as part of the project RAISE program. 
 
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
@@ -343,7 +343,7 @@ params:
 
   #Contact
   contact:
-    enable: true
+    enable: false
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
     btnName: Mail me
@@ -359,14 +359,11 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: https://github.com/armando013005
+      linkedin: https://www.linkedin.com/in/armandooo/
 
   # List pages like blogs and posts
   listPages:
