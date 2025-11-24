@@ -1,0 +1,7 @@
+baseURL = "https://armando.ooo/"
+languageCode = "en-us"
+title = "armando's site"
+theme = "nostyleplease"
+
+[markup.goldmark.renderer]
+  unsafe = true
