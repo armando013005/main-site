@@ -1,1 +1,76 @@
 #Copyright (c) 2025 Author. All Rights Reserved.
+# --- CONTACT / INFO ---
+[[entries]]
+title = "Contact Information"
+
+  [[entries.entries]]
+  title = "Email"
+  url = "mailto:armando013005@outlook.com"
+
+  [[entries.entries]]
+  title = "GitHub"
+  url = "https://github.com/armando013005"
+
+
+# --- EDUCATION ---
+[[entries]]
+title = "Education"
+
+  [[entries.entries]]
+  title = "Santa Ana College - A.S. in Computer Science"
+
+    [[entries.entries.entries]]
+    title = "Expected Transfer: Fall 2026 | GPA: 3.7/4.0"
+
+# --- TECHNICAL SKILLS ---
+[[entries]]
+title = "Technical Skills"
+
+  [[entries.entries]]
+  title = "Languages: C++, Python, Java"
+
+  [[entries.entries]]
+  title = "Microcontrollers/Hardware: PSoC 5LP, Arduino"
+
+  [[entries.entries]]
+  title = "Tools/Frameworks: TensorFlow, scikit-learn, Git, Linux CLI, PSoC Creator"
+
+
+# --- PROFESSIONAL EXPERIENCE ---
+[[entries]]
+title = "Intenships and Research"
+
+  [[entries.entries]]
+  title = "Research Intern, SMART Cal State LA - Summer 2025"
+    [[entries.entries.entries]]
+    title = "Built Arduino-based sensors and integrated hardware with PSoC Creator IDE."
+
+  [[entries.entries]]
+  title = "Undergraduate Researcher, Project RAISE CSU Fullerton - Summer 2024"
+    [[entries.entries.entries]]
+    title = "Developed Python ML Classification model to detect spam messages " 
+  
+[[entries]]
+title = "Current Position"
+ [[entries.entries]]
+  title = "Current Job - STEM Tutor & CS Teacher Assistant, Santa Ana College"
+
+#    --- PROJECTS & LEADERSHIP ---
+[[entries]]
+title = "Projects & Leadership"
+
+  [[entries.entries]]
+  title = "Tiempo Muerto (C++ Video Game)"
+  # This URL assumes you will create a markdown file for the project details
+  url = "projects/tiempo-muerto"
+
+  [[entries.entries]]
+  title = "Spam Classification (ML Project)"
+  # This URL assumes you will create a markdown file for the project details
+  url = "projects/spam-classification"
+
+  [[entries.entries]]
+  title = "President, Computer Science Club"
+
+    [[entries.entries.entries]]
+    title = "Organized workshops, hackathons, and competitions."
